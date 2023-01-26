@@ -5,7 +5,7 @@ New version of skyblock extras that includes:
  - Instant AH lowest/average price
  - Current BZ price on items
  - Dupe checker on AH
- - Bazzar flipper guide
+ - Bazzar flip helper
 
 # REQUIRES FORGE!!!
 Just download the file and add it to your mods folder. 
