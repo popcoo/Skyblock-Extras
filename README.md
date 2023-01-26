@@ -25,5 +25,7 @@ Just download the file and add it to your mods folder.
 
 If the mod does not load, restart your game
 
+Huge thanks to poodleoo, f511, DeeManTheDemon, ifruits_, and dogsarecandy1109 for helping me test this mod pack in the earliest stages of development. 
+
 
 
