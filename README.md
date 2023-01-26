@@ -13,3 +13,7 @@ type in "%appdata%".
 hit ok.
 open .minecraft > mods.
 drag the file to the mods folder. 
+
+# hotkeys 
+type /SBE in chat to see configuations. 
+- If it doesn't work, restart your game.
