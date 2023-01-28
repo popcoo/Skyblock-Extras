@@ -1,7 +1,7 @@
 # Skyblock-Extras
 New version of skyblock extras that includes:
- - griffin burrow marker
- - dungeon solvers, score calculator, and chest profit calculator  
+ - Griffin burrow marker
+ - Dungeon solvers, score calculator, and chest profit calculator  
  - Instant AH lowest/average price
  - Current BZ price on items
  - Dupe checker on AH
